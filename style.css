@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;   
+}
+
+body {
+    margin: 20px;
+    background-color:rgba(0, 0, 0, 0.8);
+    color:#fff
+}
+
+button{
+    margin: 10px;
+    font-size: 2.2rem;
+    border-radius: 25px;
+    padding:7px;
+    box-shadow: -5px -6px 15px #000;
+    outline: 2px solid #313131;
+    outline-offset: 3px;;
+}
+.btn1{
+    background-color: red;
+}
+.btn2 {
+    background-color: green;
+}
+.btn3 {
+    background-color: blue;
+}
+.btn4 {
+    background-color: violet;
+}
+.btn5 {
+    background-color: skyblue;
+}
+.btn6 {
+    background-color: yellow;
+}
